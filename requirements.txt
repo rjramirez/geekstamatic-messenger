@@ -48,3 +48,4 @@ w3lib==1.19.0
 Werkzeug==0.14.1
 wrapt==1.10.11
 zope.interface==4.4.3
+gunicorn==19.8.1
